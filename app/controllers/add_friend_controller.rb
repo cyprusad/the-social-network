@@ -1,0 +1,2 @@
+class AddFriendController < ApplicationController
+end
